@@ -1,0 +1,14 @@
+{
+  "name": "xync-js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/rpromise.git"
+  },
+  "main": "out/R.js",
+  "typings": "out/R.d.ts"
+}
